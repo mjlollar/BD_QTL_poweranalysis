@@ -1,5 +1,5 @@
 #### Matthew Lollar 
-#### Latest Update: December 9th, 2021
+#### Latest Update: December 9th, 2021 MJL
 #### Tested in: Python 3.x
 #### Power analysis simulator for Uniparental by X/Autosome two-locus recessive incompatibilities
 #### Current penetrance set: 25%
