@@ -4,6 +4,8 @@
 #### Power analysis simulator for Uniparental by X/Autosome two-locus recessive incompatibilities
 #### Current penetrance set: 25%
 
+### Not most updated as of Sept 2022
+
 import argparse
 import numpy as np
 import pandas as pd
